@@ -16,9 +16,9 @@ Password: 68593867
    ```
 
   ```
-ServerUrl: https://ab2w.info
-Username: 513100555
-Password: 568570887
+ServerUrl: https://example.com
+Username: exampleusername
+Password: examplepassword
    ```
   ```
 ServerUrl: http://line.rs6ott.com:80
